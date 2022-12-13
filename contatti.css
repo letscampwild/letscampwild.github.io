@@ -1,0 +1,533 @@
+.contatti-container {
+  min-height: 100vh;
+}
+.contatti-contatti {
+  width: 100%;
+  height: 1572px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contatti-immagine202212111811591 {
+  top: 665px;
+  left: 93px;
+  width: 122px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text {
+  top: 255px;
+  left: 112px;
+  color: var(--dl-color-default-verdone);
+  width: 450px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-screenshot20221210194202gallery1 {
+  top: 274px;
+  left: 769px;
+  width: 400px;
+  height: 512px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-rectangle26 {
+  top: 1007px;
+  left: 91px;
+  width: 1064px;
+  height: 269px;
+  position: absolute;
+  border-color: rgba(18, 134, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.contatti-line1 {
+  top: 330.0033874511719px;
+  left: 110.94400787353516px;
+  width: 316px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-text02 {
+  top: 890px;
+  left: 108.055908203125px;
+  color: var(--dl-color-default-verdone);
+  width: 450px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-line3 {
+  top: 965.00341796875px;
+  left: 107px;
+  width: 123px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-link {
+  display: contents;
+}
+.contatti-instagram {
+  top: 363px;
+  left: 96px;
+  width: 122px;
+  height: 122px;
+  position: absolute;
+}
+.contatti-link1 {
+  display: contents;
+}
+.contatti-facebook {
+  top: 504px;
+  left: 92px;
+  width: 122px;
+  height: 122px;
+  position: absolute;
+}
+.contatti-text04 {
+  top: 391px;
+  left: 245px;
+  color: var(--dl-color-default-nero);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-text06 {
+  top: 537px;
+  left: 245px;
+  color: var(--dl-color-default-nero);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-text08 {
+  top: 683px;
+  left: 245px;
+  color: var(--dl-color-default-nero);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-line2 {
+  top: 839px;
+  left: 196px;
+  width: 902px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-line4 {
+  top: 1072px;
+  left: 93px;
+  width: 1062px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-line5 {
+  top: 1141px;
+  left: 93px;
+  width: 1062px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-line6 {
+  top: 1211px;
+  left: 93px;
+  width: 1062px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-text10 {
+  top: 1022px;
+  left: 106px;
+  color: var(--dl-color-default-nero);
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-text12 {
+  top: 1211px;
+  left: 106px;
+  color: var(--dl-color-default-nero);
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-text14 {
+  top: 1151px;
+  left: 106px;
+  color: var(--dl-color-default-nero);
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-text16 {
+  top: 1082px;
+  left: 106px;
+  color: var(--dl-color-default-nero);
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-polygon1 {
+  top: 1060px;
+  left: 1018px;
+  width: 80px;
+  height: 38px;
+  position: absolute;
+}
+.contatti-polygon2 {
+  top: 1266px;
+  left: 1018px;
+  width: 80px;
+  height: 38px;
+  position: absolute;
+}
+.contatti-polygon3 {
+  top: 1201px;
+  left: 1018px;
+  width: 80px;
+  height: 38px;
+  position: absolute;
+}
+.contatti-polygon4 {
+  top: 1125px;
+  left: 1018px;
+  width: 80px;
+  height: 38px;
+  position: absolute;
+}
+.contatti-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 204px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-rectangle17 {
+  top: 42px;
+  left: 66px;
+  width: 91px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-l-o-g-oremovebgpreview1 {
+  top: 74px;
+  left: 29px;
+  width: 166px;
+  height: 130px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text18 {
+  top: 18px;
+  left: 392px;
+  color: var(--dl-color-default-verdone);
+  width: 496px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-rectangle2 {
+  top: 131px;
+  left: 201px;
+  width: 122px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text20 {
+  top: 135px;
+  left: 196px;
+  color: var(--dl-color-default-nero);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-rectangle13 {
+  top: 131px;
+  left: 823px;
+  width: 122px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text22 {
+  top: 135px;
+  left: 818px;
+  color: var(--dl-color-default-nero);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-rectangle14 {
+  top: 129px;
+  left: 1002px;
+  width: 156px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text24 {
+  top: 133px;
+  left: 1002px;
+  color: var(--dl-color-default-nero);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-rectangle12 {
+  top: 133px;
+  left: 676px;
+  width: 89px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text26 {
+  top: 135px;
+  left: 677px;
+  color: var(--dl-color-default-nero);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-rectangle11 {
+  top: 130px;
+  left: 373px;
+  width: 251px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text28 {
+  top: 133px;
+  left: 375px;
+  color: var(--dl-color-default-nero);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-arrow4 {
+  top: 61.220703125px;
+  left: 132px;
+  width: 40px;
+  height: 0px;
+  position: absolute;
+}
+.contatti-rectangle15 {
+  top: 63px;
+  left: 980px;
+  width: 175px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.contatti-text30 {
+  top: 66px;
+  left: 977px;
+  color: var(--dl-color-default-verde);
+  width: 178px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contatti-link2 {
+  display: contents;
+}
+.contatti-instagram1 {
+  top: 30px;
+  left: 1032px;
+  width: 34px;
+  height: 35px;
+  position: absolute;
+}
+.contatti-link3 {
+  display: contents;
+}
+.contatti-facebook1 {
+  top: 30px;
+  left: 1066px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
