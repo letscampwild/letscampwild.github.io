@@ -1,0 +1,126 @@
+.group2-container {
+  min-height: 100vh;
+}
+.group2-group2 {
+  width: 1392px;
+  height: 807px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group2-comingsoon {
+  top: 0px;
+  left: 0px;
+  width: 1392px;
+  height: 807px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group2-unsplashho-s3dzgp-hzw {
+  top: -888px;
+  left: -784px;
+  width: 4424px;
+  height: 3580px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.group2-overlay {
+  top: -828px;
+  left: -1420px;
+  width: 3652px;
+  height: 2724px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.group2-text {
+  top: 625px;
+  left: 500px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group2-text2 {
+  top: 728px;
+  left: 600px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group2-text4 {
+  top: 374px;
+  left: 494px;
+  color: rgba(0, 0, 0, 1);
+  width: 457px;
+  height: auto;
+  position: absolute;
+  font-size: 250px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group2-text6 {
+  top: 285px;
+  left: 286px;
+  color: rgba(0, 0, 0, 1);
+  width: 873px;
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
